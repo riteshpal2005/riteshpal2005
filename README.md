@@ -1,12 +1,6 @@
-
-<table align="center">
-<tr>
-<td><h1>I'm</h1></td>
-<td>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1000&color=A855F7&width=220&lines=Ritesh+Pal" alt="Typing SVG" />
-</td>
-</tr>
-</table>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:22D3EE&height=150&section=header&text=Ritesh%20Pal&fontSize=50&fontColor=ffffff&animation=twinkling" />
+</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Mobile+App+Developer;React+Native+Developer;Building+Production+Ready+Apps;Crafting+Smooth+Mobile+Experiences" alt="Typing SVG" />

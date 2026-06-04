@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Mobile+App+Developer;React+Native+Developer;Building+Production+Ready+Apps;Crafting+Smooth+Mobile+Experiences" alt="Typing SVG" />
 </h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riteshpal2005&label=PROFILE+VIEWS&color=FF8C00&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/followers/riteshpal2005?style=for-the-badge&color=8A2BE2&labelColor=0D1117" />
+</p>
+
 
 ## About Me
 

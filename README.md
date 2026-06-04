@@ -25,137 +25,54 @@
 
 ---
 
-## Mobile Development Ecosystem
+# Core Tech Stack
 
 <p align="left">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" width="40" style="margin-right: 12px;" title="React Native Mobile Framework" alt="React Native" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" width="40" style="margin-right: 12px;" title="Native Android SDK Integration" alt="Android" />
+  <img src="https://cdn.simpleicons.org/expo/FFFFFF" height="40" width="40" style="margin-right: 12px;" title="Expo Application Suite" alt="Expo" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" width="40" style="margin-right: 12px;" title="NativeWind CSS Integration" alt="NativeWind CSS" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" width="40" style="margin-right: 12px;" title="Redux Toolkit Global Storage" alt="Redux" />
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="40" width="40" style="margin-right: 12px;" title="React Query API Caching" alt="React Query" />
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" width="40" style="margin-right: 12px;" title="Axios HTTP Request Clients" alt="Axios" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="40" width="40" style="margin-right: 12px;" title="Socket.IO Real-time WebSockets" alt="Socket.IO" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" width="40" style="margin-right: 12px;" title="Firebase BaaS & Analytics Pipelines" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" width="40" style="margin-right: 12px;" title="Supabase Open-source Relational Postgres" alt="Supabase" />
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" height="40" width="40" style="margin-right: 12px;" title="Stripe Secure Merchant Services" alt="Stripe" />
+  <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" height="36" width="36" style="margin-right: 12px;" title="Lottie Vector Render Animations" alt="Lottie" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" width="40" style="margin-right: 12px;" title="Git Version Revision Tree Control" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" width="40" style="margin-right: 12px;" title="GitHub Distributed Code Repos" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" width="40" style="margin-right: 12px;" title="GitHub Actions Automation Runners" alt="GitHub Actions" />
+  <img src="https://cdn.simpleicons.org/fastlane/6B5AED" height="40" width="40" style="margin-right: 12px;" title="Fastlane Automated Store Build Actions" alt="Fastlane" />
+</p>
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Navigation-6C47FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Reanimated-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gesture_Handler-61DAFB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gorhom_Bottom_Sheet-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/React_Native_Paper-00897B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NativeBase-1F2937?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector_Icons-61DAFB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Reanimated_Carousel-FF4088?style=for-the-badge" />
 
+
+# Ecosystem & Specialized Tooling
+
+### UI Engine & Interaction Layouts
+<p align="left">
+  <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square" height="36" title="NativeWind Utility Styling" />
+  <img src="https://img.shields.io/badge/Reanimated-111827?style=flat-square" height="36" title="Reanimated 60FPS UI Interaction Engine" />
+  <img src="https://img.shields.io/badge/Gesture_Handler-61DAFB?style=flat-square&logo=react&logoColor=black" height="36" title="Declarative Native Gestures" />
+  <img src="https://img.shields.io/badge/Bottom_Sheet-000000?style=flat-square" height="36" title="Gorhom Bottom Sheet Contexts" />
+</p>
+
+### State Management Alternatives
+<p align="left">
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square" height="36" title="Zustand Lightweight Atomic Store" />
+  <img src="https://img.shields.io/badge/Jotai-000000?style=flat-square" height="36" title="Jotai Primitive Atomic State" />
+</p>
+
+### Architecture, Validation & Storage
+<p align="left">
+  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" height="36" width="36" style="margin-right: 12px;" title="React Hook Form Architectures" alt="React Hook Form" />
+  <img src="https://cdn.simpleicons.org/zod/3068B7" height="36" width="36" style="margin-right: 12px;" title="Zod Schema-first Inferences" alt="Zod" />
+  <img src="https://img.shields.io/badge/Yup_Schema-111827?style=flat-square" height="36" title="Yup Object Validation Framework" />
+  <img src="https://img.shields.io/badge/Async_Storage-61DAFB?style=flat-square&logo=react&logoColor=black" height="36" title="Asynchronous On-Device Unencrypted Storage" />
 </p>
 
 ---
-
-## State Management & Data Fetching
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/React_Context-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-
-</p>
-
----
-
-## Forms, Validation & Localization
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-<img src="https://img.shields.io/badge/Yup-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/react--i18next-26A69A?style=for-the-badge" />
-
-</p>
-
----
-
-## Backend, Storage & Services
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Async_Storage-61DAFB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Cashfree-0066FF?style=for-the-badge" />
-
-</p>
-
----
-
-## Native Features & Integrations
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Maps-34A853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vision_Camera-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Video-E53935?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Notifee-FF6B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WebView-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Fast_Image-1976D2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Share-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Charts-FF5722?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge" />
-
-</p>
-
----
-
-## Development & DevOps
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Fastlane-6B5AED?style=for-the-badge&logo=fastlane&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-
-</p>
-
----
-
-## Currently Learning
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/React_Native-Expertise_Path-20232A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Navigation-Advanced-6C47FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Animations-Reanimated-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/State_Management-Advanced-593D88?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend_Integration-Firebase_&_Supabase-3ECF8E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Native_Features-Camera_Maps_Notifications-34A853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Payments-Stripe_&_Cashfree-635BFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CI/CD-Fastlane_&_GitHub_Actions-2088FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Performance-Optimization-E53935?style=for-the-badge" />
-<img src="https://img.shields.io/badge/App_Architecture-Production_Ready-000000?style=for-the-badge" />
-
-</p>
-
-## Development Focus
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React_Native-Mobile_Apps-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Architecture-Clean_Architecture-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UI/UX-Pixel_Perfect-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Performance-Optimization-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Animations-Reanimated-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/State_Management-Redux_+_Zustand-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend-Firebase_+_Supabase-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CI/CD-Fastlane_+_GitHub_Actions-blueviolet?style=for-the-badge" />
-
-</p>
 
 ## GitHub Analytics
 
